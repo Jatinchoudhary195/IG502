@@ -10,7 +10,7 @@
 
 ```apt install git ```
 
-```git clone https://github.com/shubhushubhu99/IG502.git```
+```git clone https://github.com/jatinchoudhary3212/IG502.git```
 
 ```cd IG502```
 
